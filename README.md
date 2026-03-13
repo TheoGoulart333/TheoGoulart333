@@ -50,19 +50,15 @@ Olá! Me chamo Theo Goulart Cardoso, tenho 19 anos e sou natural de Minas Gerais
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=TheoGoulart333&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<img 
+  align="left" 
+  height="200" 
+  src="https://github-readme-stats.vercel.app/api?username=TheoGoulart333&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
+/>
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoGoulart333&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+  align="left" 
+  height="200" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoGoulart333&theme=tokyonight&layout=compact&custom_title=Tecnologias"
+/>
 </p>
