@@ -70,11 +70,11 @@
 
 ---
 
-# 🌆 GitHub Contributions 
-
+<!-- GitHub Stats Alternativa -->
 <p align="center">
-  <!-- Gráfico estático de contribuições do GitHub -->
-  <img src="https://ghchart.rshah.org/theogoulart333" width="600" alt="GitHub Contributions Chart"/>
+  <img src="https://img.shields.io/github/followers/TheoGoulart333?style=for-the-badge" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/TheoGoulart333?style=for-the-badge" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/TheoGoulart333?style=for-the-badge" alt="Forks"/>
 </p>
 
 ---
