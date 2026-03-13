@@ -46,28 +46,27 @@
 
 ---
 
-# 📊 Estatísticas
+### 📊 Estatísticas
 
-<table>
-  <tr>
-    <td>
-      <img
-        alt="GitHub Stats"
-        height="120"
-        src="https://github-readme-stats.vercel.app/api?username=TheoGoulart333&show_icons=true&theme=tokyonight"
-      />
-    </td>
-    <td>
-      <img
-        alt="Tecnologias"
-        height="120"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoGoulart333&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-      />
-    </td>
-  </tr>
-</table>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=TheoGoulart333&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-<!-- Quebra para o conteúdo abaixo -->
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoGoulart333&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
+<!-- Quebra para o próximo conteúdo -->
 <br clear="both">
 
 ---
