@@ -59,7 +59,7 @@
 
 ---
 
-<!-- 🏆 Conquistas -->
+<!-- 🏆 Minhas Conquistas -->
 <h2 align="center">🏆 Minhas Conquistas</h2>
 
 <p align="center">
@@ -68,7 +68,7 @@
       <td align="center" style="padding:10px;">
         <img src="https://img.icons8.com/color/48/000000/graduation-cap.png"/><br/>
         <b>Cursos Concluídos</b><br/>
-        12 cursos finalizados
+        18 cursos finalizados
       </td>
       <td align="center" style="padding:10px;">
         <img src="https://img.icons8.com/color/48/000000/certificate.png"/><br/>
@@ -86,19 +86,19 @@
         100 Days of Code
       </td>
       <td align="center" style="padding:10px;">
-        <img src="https://img.icons8.com/color/48/000000/algorithm.png"/><br/>
-        <b>Ranking</b><br/>
-        Top 50% LeetCode
+        <img src="https://img.icons8.com/color/48/000000/training.png"/><br/>
+        <b>Workshops</b><br/>
+        Participações em eventos
       </td>
       <td align="center" style="padding:10px;">
-        <img src="https://img.icons8.com/color/48/000000/star.png"/><br/>
-        <b>Reconhecimentos</b><br/>
-        Destaque em hackathons
+        <img src="https://img.icons8.com/color/48/000000/project.png"/><br/>
+        <b>Projetos Extras</b><br/>
+        Side projects concluídos
       </td>
     </tr>
   </table>
 </p>
-
+    
 ---
 
 # 🐍 Contribution Snake
