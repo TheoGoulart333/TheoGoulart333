@@ -1,6 +1,6 @@
-<!-- Banner maior com texto ajustado -->
+<!-- Banner ajustado para não cortar texto -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=250&section=header&text=Theo%20Goulart&fontSize=65&fontColor=ffffff&animation=glitchwave"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=200&section=header&text=Theo%20Goulart&fontSize=55&fontColor=ffffff&animation=glitchwave&padding=30"/>
 </p>
 
 <!-- Typing animation com margem -->
@@ -70,10 +70,11 @@
 
 ---
 
-# 🌆 GitHub Visual — Alternativa
+# 🌆 GitHub Contributions — Skyline Alternativa
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="600" alt="GitHub Skyline Alternative"/>
+  <!-- Gráfico estático de contribuições do GitHub -->
+  <img src="https://ghchart.rshah.org/theogoulart333" width="600" alt="GitHub Contributions Chart"/>
 </p>
 
 ---
