@@ -59,16 +59,22 @@
 
 ---
 
-# 🏆 Conquistas 
-
+<!-- 🏆 Conquistas -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Completed%20Courses-5-blue?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Certifications-3-green?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Projects-Finished-orange?style=for-the-badge&logo=github&logoColor=white"/>
+  <!-- Cursos Concluídos -->
+  <img src="https://img.shields.io/badge/🎓%20Completed%20Courses-5-blue?style=for-the-badge&logo=readthedocs&logoColor=white" style="margin:5px"/>
+  
+  <!-- Certificações -->
+  <img src="https://img.shields.io/badge/📜%20Certifications-3-green?style=for-the-badge&logo=google&logoColor=white" style="margin:5px"/>
+  
+  <!-- Projetos Concluídos -->
+  <img src="https://img.shields.io/badge/💻%20Projects-Finished-orange?style=for-the-badge&logo=github&logoColor=white" style="margin:5px"/>
+  
+  <!-- Desafios / Gamificação -->
+  <img src="https://img.shields.io/badge/100DaysOfCode-Finished-brightgreen?style=for-the-badge&logo=github&logoColor=white" style="margin:5px"/>
+  
+  <!-- LeetCode / Ranking -->
+  <img src="https://img.shields.io/badge/LeetCode-Top%2050%25-yellow?style=for-the-badge&logo=leetcode&logoColor=white" style="margin:5px"/>
 </p>
 
 ---
