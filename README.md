@@ -1,3 +1,5 @@
+<img src="banner.png" width="100%">
+
 # 👨🏼‍💻 Theo Goulart
 
 **`Desenvolvedor Back-End`**
