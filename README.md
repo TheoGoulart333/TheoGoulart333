@@ -53,7 +53,7 @@
 
 ---
 
-# 🏆 Conquistas — Alternativa Visual
+# 🏆 Conquistas 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Top%20Languages-Python%20%7C%20JavaScript-blue?style=for-the-badge&logo=python"/>
