@@ -6,6 +6,13 @@
 
 Olá! Me chamo Theo Goulart Cardoso, tenho 19 anos e sou natural de Minas Gerais. Concluí o ensino médio no Colégio Elite Rede de Ensino e atualmente estou cursando **Engenharia de Software na PUC Minas**. Sou apaixonado por tecnologia, programação e pela área de desenvolvimento de software. Estou sempre buscando aprender coisas novas, aprimorar minhas habilidades e desenvolver projetos que contribuam para meu crescimento como futuro engenheiro de software. Neste GitHub compartilho meus projetos, estudos e experiências durante minha jornada no mundo da tecnologia.
 
+## 📚 Atualmente estudando
+
+- Estruturas de Dados
+- Algoritmos
+- Engenharia de Software
+- Desenvolvimento Web
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -75,4 +82,19 @@ Olá! Me chamo Theo Goulart Cardoso, tenho 19 anos e sou natural de Minas Gerais
 
 </p>
 
+## 🔥 Streak de Contribuições
+
+![GitHub Streak](https://streak-stats.demolab.com?user=TheoGoulart333&theme=tokyonight)
+
+## 📈 Atividade
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheoGoulart333&theme=tokyo-night)
+
+## 🏆 Conquistas
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheoGoulart333&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Profile Views](https://komarev.com/ghpvc/?username=TheoGoulart333&color=blue)
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
