@@ -91,10 +91,20 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoGoulart3
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Commits-500+-brightgreen?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/PRs-50+-blue?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Issues-20+-yellow?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Repositories-10+-red?style=for-the-badge&logo=github"/>
+<!-- Commits -->
+<img alt="Commits" src="https://img.shields.io/badge/Commits-500+-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
+
+<!-- Pull Requests -->
+<img alt="PRs" src="https://img.shields.io/badge/Pull%20Requests-50+-blue?style=for-the-badge&logo=github&logoColor=white"/>
+
+<!-- Issues -->
+<img alt="Issues" src="https://img.shields.io/badge/Issues-20+-yellow?style=for-the-badge&logo=github&logoColor=white"/>
+
+<!-- Repositories -->
+<img alt="Repositories" src="https://img.shields.io/badge/Repositories-10+-red?style=for-the-badge&logo=github&logoColor=white"/>
+
+<!-- Followers -->
+<img alt="Followers" src="https://img.shields.io/badge/Followers-100+-purple?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
 ---
