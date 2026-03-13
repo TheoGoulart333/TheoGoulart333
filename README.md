@@ -48,28 +48,27 @@
 
 # 📊 Estatísticas
 
-<p> 
+# 📊 Estatísticas
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+
   <!-- GitHub Stats -->
   <img
-    align="left"
     alt="GitHub Stats"
     height="200"
     width="400"
-    style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=TheoGoulart333&show_icons=true&theme=tokyonight"
   />
-  
+
   <!-- Top Linguagens / Tecnologias -->
   <img
-    align="left"
     alt="Tecnologias"
     height="200"
     width="400"
-    style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoGoulart333&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
-</p>
 
+</div>
 <!-- Quebra para o próximo conteúdo (Minhas Conquistas, etc.) -->
 <br clear="both">
 
