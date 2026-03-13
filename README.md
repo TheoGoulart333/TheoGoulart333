@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=250&section=header&text=Theo%20Goulart%20|%20Dev&fontSize=55&fontColor=000000&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=250&section=header&text=Theo%20Goulart%20|%20Dev&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=1000&lines=Theo+Goulart;Software+Engineering+Student;Python+Developer;Future+Software+Engineer;Building+My+Developer+Journey"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=1000&lines=Theo+Goulart;Software+Engineering+Student;Python+Developer;Future+Software+Engineer;Building+My+Developer+Journey"/>
 </p>
 
 ---
