@@ -52,7 +52,7 @@
   <!-- GitHub Stats -->
   <img
     alt="GitHub Stats"
-    height="160"
+    height="130"
     src="https://github-readme-stats.vercel.app/api?username=TheoGoulart333&show_icons=true&theme=tokyonight"
     style="margin-right: 10px;"
   />
@@ -60,12 +60,12 @@
   <!-- Top Linguagens / Tecnologias -->
   <img
     alt="Tecnologias"
-    height="160"
+    height="130"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoGoulart333&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
 
-<!-- Quebra para o conteúdo abaixo (Minhas Conquistas etc.) -->
+<!-- Quebra para conteúdo abaixo -->
 <br clear="both">
 
 ---
