@@ -48,34 +48,25 @@
 
 # 📊 Estatísticas
 
-<table>
-  <tr>
-    <!-- GitHub Stats -->
-    <td>
-      <img
-        alt="GitHub Stats"
-        height="180"
-        src="https://github-readme-stats.vercel.app/api?username=TheoGoulart333&show_icons=true&theme=tokyonight"
-      />
-    </td>
+<p>
+  <!-- GitHub Stats -->
+  <img
+    alt="GitHub Stats"
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=TheoGoulart333&show_icons=true&theme=tokyonight"
+    style="margin-right: 10px;"
+  />
 
-    <!-- Top Linguagens / Tecnologias -->
-    <td>
-      <img
-        alt="Tecnologias"
-        height="180"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoGoulart333&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-      />
-    </td>
-  </tr>
-</table>
+  <!-- Top Linguagens / Tecnologias -->
+  <img
+    alt="Tecnologias"
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoGoulart333&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
+</p>
 
-<!-- Quebra para o próximo conteúdo (Minhas Conquistas, etc.) -->
+<!-- Quebra para o conteúdo abaixo (Minhas Conquistas etc.) -->
 <br clear="both">
-
-<!-- Quebra para o próximo conteúdo (Minhas Conquistas, etc.) -->
-<br clear="both">
-
 ---
 
 <!-- 🏆 Minhas Conquistas -->
