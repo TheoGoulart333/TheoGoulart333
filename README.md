@@ -91,10 +91,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoGoulart3
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheoGoulart333&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img src="https://img.shields.io/badge/Commits-500+-brightgreen?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/PRs-50+-blue?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Issues-20+-yellow?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Repositories-10+-red?style=for-the-badge&logo=github"/>
 
 </p>
-
 ---
 
 # 🧠 Advanced Metrics
