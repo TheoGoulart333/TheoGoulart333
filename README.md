@@ -104,9 +104,10 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoGoulart3
 <img alt="Repositories" src="https://img.shields.io/badge/Repositories-10+-red?style=for-the-badge&logo=github&logoColor=white"/>
 
 <!-- Followers -->
-<img alt="Followers" src="https://img.shields.io/badge/Followers-100+-purple?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="Followers" src="https://img.shields.io/badge/Followers-4+-purple?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
+
 ---
 
 # 🧠 Advanced Metrics
