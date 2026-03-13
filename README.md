@@ -58,19 +58,22 @@
 </p>
 
 ---
-<!-- 🏆 Conquistas Modernas -->
+
+<!-- 🏆 Conquistas -->
+<h2 align="center">🏆 Minhas Conquistas</h2>
+
 <p align="center">
   <table>
     <tr>
       <td align="center" style="padding:10px;">
         <img src="https://img.icons8.com/color/48/000000/graduation-cap.png"/><br/>
         <b>Cursos Concluídos</b><br/>
-        5 cursos finalizados
+        12 cursos finalizados
       </td>
       <td align="center" style="padding:10px;">
         <img src="https://img.icons8.com/color/48/000000/certificate.png"/><br/>
         <b>Certificações</b><br/>
-        3 certificações
+        9 certificações
       </td>
       <td align="center" style="padding:10px;">
         <img src="https://img.icons8.com/color/48/000000/source-code.png"/><br/>
@@ -87,10 +90,13 @@
         <b>Ranking</b><br/>
         Top 50% LeetCode
       </td>
+      <td align="center" style="padding:10px;">
+        <img src="https://img.icons8.com/color/48/000000/star.png"/><br/>
+        <b>Reconhecimentos</b><br/>
+        Destaque em hackathons
+      </td>
     </tr>
   </table>
-</p>
-
 </p>
 
 ---
