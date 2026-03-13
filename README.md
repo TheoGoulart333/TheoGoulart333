@@ -48,14 +48,13 @@
 
 # 📊 Estatísticas
 
-# 📊 Estatísticas
-
 <p> 
   <!-- GitHub Stats -->
   <img
     align="left"
     alt="GitHub Stats"
     height="200"
+    width="400"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=TheoGoulart333&show_icons=true&theme=tokyonight"
   />
@@ -65,10 +64,14 @@
     align="left"
     alt="Tecnologias"
     height="200"
+    width="400"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoGoulart333&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
+
+<!-- Quebra para o próximo conteúdo (Minhas Conquistas, etc.) -->
+<br clear="both">
 
 <!-- Quebra para o próximo conteúdo (Minhas Conquistas, etc.) -->
 <br clear="both">
