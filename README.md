@@ -123,12 +123,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoGoulart3
 
 ---
 
-# 🎧 Spotify Status
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=12100538643&cover_image=true&theme=default"/>
-
----
-
 # 💬 Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
