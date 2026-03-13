@@ -58,36 +58,41 @@
 </p>
 
 ---
-
-<!-- 🏆 Conquistas Profissionais -->
+<!-- 🏆 Conquistas Modernas -->
 <p align="center">
-
-  <!-- Cursos Concluídos -->
-  <a href="https://www.coursera.org/" target="_blank">
-    <img src="https://img.shields.io/badge/🎓%20Completed%20Courses-5-blue?style=for-the-badge&logo=coursera&logoColor=white" style="margin:5px"/>
-  </a>
-
-  <!-- Certificações -->
-  <a href="https://www.credly.com/" target="_blank">
-    <img src="https://img.shields.io/badge/📜%20Certifications-3-green?style=for-the-badge&logo=credly&logoColor=white" style="margin:5px"/>
-  </a>
-
-  <!-- Projetos Concluídos -->
-  <a href="https://github.com/TheoGoulart333" target="_blank">
-    <img src="https://img.shields.io/badge/💻%20Projects-Finished-orange?style=for-the-badge&logo=github&logoColor=white" style="margin:5px"/>
-  </a>
-
-  <!-- Desafios / Gamificação -->
-  <a href="https://www.100daysofcode.com/" target="_blank">
-    <img src="https://img.shields.io/badge/100DaysOfCode-Finished-brightgreen?style=for-the-badge&logo=github&logoColor=white" style="margin:5px"/>
-  </a>
-
-  <!-- LeetCode / Ranking -->
-  <a href="https://leetcode.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Top%2050%25-yellow?style=for-the-badge&logo=leetcode&logoColor=white" style="margin:5px"/>
-  </a>
+  <table>
+    <tr>
+      <td align="center" style="padding:10px;">
+        <img src="https://img.icons8.com/color/48/000000/graduation-cap.png"/><br/>
+        <b>Cursos Concluídos</b><br/>
+        5 cursos finalizados
+      </td>
+      <td align="center" style="padding:10px;">
+        <img src="https://img.icons8.com/color/48/000000/certificate.png"/><br/>
+        <b>Certificações</b><br/>
+        3 certificações
+      </td>
+      <td align="center" style="padding:10px;">
+        <img src="https://img.icons8.com/color/48/000000/source-code.png"/><br/>
+        <b>Projetos</b><br/>
+        4 projetos concluídos
+      </td>
+      <td align="center" style="padding:10px;">
+        <img src="https://img.icons8.com/color/48/000000/medal2.png"/><br/>
+        <b>Desafios</b><br/>
+        100 Days of Code
+      </td>
+      <td align="center" style="padding:10px;">
+        <img src="https://img.icons8.com/color/48/000000/algorithm.png"/><br/>
+        <b>Ranking</b><br/>
+        Top 50% LeetCode
+      </td>
+    </tr>
+  </table>
+</p>
 
 </p>
+
 ---
 
 # 🐍 Contribution Snake
