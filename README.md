@@ -48,27 +48,29 @@
 
 # 📊 Estatísticas
 
-# 📊 Estatísticas
+<table>
+  <tr>
+    <!-- GitHub Stats -->
+    <td>
+      <img
+        alt="GitHub Stats"
+        height="200"
+        width="400"
+        src="https://github-readme-stats.vercel.app/api?username=TheoGoulart333&show_icons=true&theme=tokyonight"
+      />
+    </td>
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-
-  <!-- GitHub Stats -->
-  <img
-    alt="GitHub Stats"
-    height="200"
-    width="400"
-    src="https://github-readme-stats.vercel.app/api?username=TheoGoulart333&show_icons=true&theme=tokyonight"
-  />
-
-  <!-- Top Linguagens / Tecnologias -->
-  <img
-    alt="Tecnologias"
-    height="200"
-    width="400"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoGoulart333&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-
-</div>
+    <!-- Top Linguagens / Tecnologias -->
+    <td>
+      <img
+        alt="Tecnologias"
+        height="200"
+        width="400"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoGoulart333&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+      />
+    </td>
+  </tr>
+</table>
 <!-- Quebra para o próximo conteúdo (Minhas Conquistas, etc.) -->
 <br clear="both">
 
