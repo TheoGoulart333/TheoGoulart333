@@ -70,11 +70,9 @@
 
 ---
 
-<!-- GitHub Stats Alternative -->
+<!-- GitHub Profile Card Alternative -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/TheoGoulart333?style=for-the-badge" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/TheoGoulart333?style=for-the-badge" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/TheoGoulart333?style=for-the-badge" alt="Forks"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheoGoulart333&theme=dracula" alt="Profile Card"/>
 </p>
 
 ---
