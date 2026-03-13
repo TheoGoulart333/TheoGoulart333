@@ -1,12 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=400&section=header&text=Theo%20Goulart%20|%20ULTRA+EPIC&fontSize=90&fontColor=ffffff&animation=glitchwave"/>
+<!-- Banner animado com glitch -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=300&section=header&text=Theo%20Goulart&fontSize=80&fontColor=ffffff&animation=glitchwave"/>
 
+<!-- Typing animation do nome e título -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&duration=5000&pause=500&color=ffffff&center=true&vCenter=true&width=1600&lines=Theo+Goulart;Python+Developer;Future+Software+Engineer;Building+My+Developer+Journey"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=500&color=ffffff&center=true&vCenter=true&width=1200&lines=Python+Developer;Software+Engineer;Future+Software+Engineer"/>
 </p>
 
 ---
 
-# 👨‍💻 Theo Goulart
+# 👨‍💻 Sobre mim
 
 🎓 Software Engineering Student — PUC Minas  
 💻 Python Developer  
@@ -15,7 +17,7 @@
 
 ---
 
-# 🌐 Connect with me
+# 🌐 Contatos
 
 <p align="center">
 <a href="https://www.linkedin.com/in/theogoulart3/">
@@ -28,7 +30,7 @@
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ Skills
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,linux"/>
@@ -45,22 +47,18 @@
 
 ---
 
-# 🔥 Commit Streak + Boss GIF
+# 🔥 Commit Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheoGoulart333&theme=tokyonight"/>
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="400" title="Boss Entry"/>
 </p>
 
 ---
 
-# 🏆 Trophies & Easter Eggs
+# 🏆 Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=TheoGoulart333&theme=tokyonight&no-frame=true&row=1&column=7"/>
-<br/>
-[![Power-Up](https://img.shields.io/badge/Power-Up-COSMIC-00ffff?style=for-the-badge&logo=superpowers&logoColor=white)](https://github.com/TheoGoulart333)  
-[![Secret Easter Egg](https://img.shields.io/badge/Easter-Egg-UNIVERSE-ff69b4?style=for-the-badge&logo=space-shuttle&logoColor=white)](https://github.com/TheoGoulart333)
 </p>
 
 ---
@@ -81,7 +79,7 @@
 
 ---
 
-# ⭐ Dev Philosophy
+# ⭐ Filosofia
 
 > Code. Learn. Build. Repeat.
 
