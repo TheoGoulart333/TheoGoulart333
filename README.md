@@ -53,10 +53,11 @@
 
 ---
 
-# 🏆 Trophies — Alternativa Visual
+# 🏆 Conquistas — Alternativa Visual
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUOwG7lnT0ku8gJ3s8/giphy.gif" width="420" alt="Trophies Animation"/>
+  <img src="https://img.shields.io/badge/Top%20Languages-Python%20%7C%20JavaScript-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Commits-Streak-success?style=for-the-badge&logo=github"/>
 </p>
 
 ---
@@ -69,10 +70,10 @@
 
 ---
 
-# 🌆 GitHub Skyline — Alternativa
+# 🌆 GitHub Visual — Alternativa
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1BXa2alBjrCXC/giphy.gif" width="600" alt="Skyline Animation"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="600" alt="GitHub Skyline Alternative"/>
 </p>
 
 ---
