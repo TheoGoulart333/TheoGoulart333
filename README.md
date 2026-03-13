@@ -59,24 +59,35 @@
 
 ---
 
-<!-- 🏆 Conquistas -->
+<!-- 🏆 Conquistas Profissionais -->
 <p align="center">
-  <!-- Cursos Concluídos -->
-  <img src="https://img.shields.io/badge/🎓%20Completed%20Courses-5-blue?style=for-the-badge&logo=readthedocs&logoColor=white" style="margin:5px"/>
-  
-  <!-- Certificações -->
-  <img src="https://img.shields.io/badge/📜%20Certifications-3-green?style=for-the-badge&logo=google&logoColor=white" style="margin:5px"/>
-  
-  <!-- Projetos Concluídos -->
-  <img src="https://img.shields.io/badge/💻%20Projects-Finished-orange?style=for-the-badge&logo=github&logoColor=white" style="margin:5px"/>
-  
-  <!-- Desafios / Gamificação -->
-  <img src="https://img.shields.io/badge/100DaysOfCode-Finished-brightgreen?style=for-the-badge&logo=github&logoColor=white" style="margin:5px"/>
-  
-  <!-- LeetCode / Ranking -->
-  <img src="https://img.shields.io/badge/LeetCode-Top%2050%25-yellow?style=for-the-badge&logo=leetcode&logoColor=white" style="margin:5px"/>
-</p>
 
+  <!-- Cursos Concluídos -->
+  <a href="https://www.coursera.org/" target="_blank">
+    <img src="https://img.shields.io/badge/🎓%20Completed%20Courses-5-blue?style=for-the-badge&logo=coursera&logoColor=white" style="margin:5px"/>
+  </a>
+
+  <!-- Certificações -->
+  <a href="https://www.credly.com/" target="_blank">
+    <img src="https://img.shields.io/badge/📜%20Certifications-3-green?style=for-the-badge&logo=credly&logoColor=white" style="margin:5px"/>
+  </a>
+
+  <!-- Projetos Concluídos -->
+  <a href="https://github.com/TheoGoulart333" target="_blank">
+    <img src="https://img.shields.io/badge/💻%20Projects-Finished-orange?style=for-the-badge&logo=github&logoColor=white" style="margin:5px"/>
+  </a>
+
+  <!-- Desafios / Gamificação -->
+  <a href="https://www.100daysofcode.com/" target="_blank">
+    <img src="https://img.shields.io/badge/100DaysOfCode-Finished-brightgreen?style=for-the-badge&logo=github&logoColor=white" style="margin:5px"/>
+  </a>
+
+  <!-- LeetCode / Ranking -->
+  <a href="https://leetcode.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Top%2050%25-yellow?style=for-the-badge&logo=leetcode&logoColor=white" style="margin:5px"/>
+  </a>
+
+</p>
 ---
 
 # 🐍 Contribution Snake
