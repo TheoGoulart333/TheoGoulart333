@@ -48,14 +48,19 @@
 
 # 📊 Estatísticas
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheoGoulart333&show_icons=true&theme=tokyonight" style="margin-right:10px;"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoGoulart333&layout=compact&theme=tokyonight"/>
-</p>
+<img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheoGoulart333&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)"
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheoGoulart333&theme=tokyonight" width="400"/>
-</p>
+<img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoGoulart333&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)]"
+
+
 
 ---
 
