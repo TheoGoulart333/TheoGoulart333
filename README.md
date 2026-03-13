@@ -73,4 +73,4 @@ Olá! Me chamo Theo Goulart Cardoso, tenho 19 anos e sou natural de Minas Gerais
 
 </p>
 
-<img src="https://www.canva.com/design/DAG338PX0Y8/pP5u_ydoxCODV_0-Wt5rGQ/edit)" width="100%">
+
