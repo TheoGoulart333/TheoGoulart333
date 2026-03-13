@@ -1,9 +1,9 @@
 <!-- Banner animado menor -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=200&section=header&text=Theo%20Goulart&fontSize=80&fontColor=ffffff&animation=glitchwave"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=150&section=header&text=Theo%20Goulart&fontSize=70&fontColor=ffffff&animation=glitchwave"/>
 
-<!-- Typing animation centralizado -->
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=500&color=ffffff&center=true&vCenter=true&width=1200&lines=Python+Developer;Software+Engineer;Future+Software+Engineer"/>
+<!-- Typing animation centralizado com margem -->
+<p align="center" style="margin-top: 20px;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=500&color=ffffff&center=true&vCenter=true&width=1200&lines=Python+Developer;Software+Engineer;Future+Software+Engineer"/>
 </p>
 
 ---
