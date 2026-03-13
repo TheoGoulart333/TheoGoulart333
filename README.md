@@ -62,8 +62,7 @@
 # 🏆 Conquistas 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Top%20Languages-Python%20%7C%20JavaScript-blue?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Commits-Streak-success?style=for-the-badge&logo=github"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TheoGoulart333&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Trophies"/>
 </p>
 
 ---
