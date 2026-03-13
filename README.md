@@ -45,11 +45,11 @@
 
 ---
 
-# 🔥 Commit Streak + Boss Animation
+# 🔥 Commit Streak + Boss GIF
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheoGoulart333&theme=tokyonight"/>
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="400" title="Boss Enter"/>
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="400" title="Boss Entry"/>
 </p>
 
 ---
@@ -68,4 +68,23 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-![snake gif](https://github.com/Platane/snk/raw/output
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+</p>
+
+---
+
+# 🌆 GitHub Skyline
+
+<p align="center">
+<img src="https://skyline.github.com/proxy/github/TheoGoulart333/960x480.png"/>
+</p>
+
+---
+
+# ⭐ Dev Philosophy
+
+> Code. Learn. Build. Repeat.
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=120"/>
