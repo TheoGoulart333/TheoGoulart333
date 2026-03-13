@@ -70,7 +70,7 @@
 
 ---
 
-# 🌆 GitHub Contributions — Skyline Alternativa
+# 🌆 GitHub Contributions 
 
 <p align="center">
   <!-- Gráfico estático de contribuições do GitHub -->
