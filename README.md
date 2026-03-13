@@ -62,9 +62,13 @@
 # 🏆 Conquistas 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Completed%20Courses-5-blue?style=for-the-badge&logo=readthedocs"/>
-  <img src="https://img.shields.io/badge/Certifications-3-green?style=for-the-badge&logo=readthedocs"/>
-  <img src="https://img.shields.io/badge/Projects-Finished-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Completed%20Courses-5-blue?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Certifications-3-green?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects-Finished-orange?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
