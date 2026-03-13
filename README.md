@@ -31,6 +31,9 @@
   <a href="https://wa.me/5531984383189">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
+  <a href="https://discord.com/users/theo09289">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 </p>
 
 ---
