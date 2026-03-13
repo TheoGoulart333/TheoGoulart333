@@ -92,9 +92,14 @@ Olá! Me chamo Theo Goulart Cardoso, tenho 19 anos e sou natural de Minas Gerais
 
 ## 🏆 Conquistas
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TheoGoulart333&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TheoGoulart333&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TheoGoulart333&color=blue)
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+## 🐍 Contribuições
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+
 
