@@ -62,7 +62,9 @@
 # 🏆 Conquistas 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheoGoulart333&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Trophies"/>
+  <img src="https://img.shields.io/badge/Completed%20Courses-5-blue?style=for-the-badge&logo=readthedocs"/>
+  <img src="https://img.shields.io/badge/Certifications-3-green?style=for-the-badge&logo=readthedocs"/>
+  <img src="https://img.shields.io/badge/Projects-Finished-orange?style=for-the-badge"/>
 </p>
 
 ---
