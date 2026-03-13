@@ -48,19 +48,22 @@
 
 # 📊 Estatísticas
 
-<img
+<p> 
+  <img
     align="left"
     alt="GitHub Stats"
     height="200"
     src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheoGoulart333&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)"
-
+/>
+  
 <img
     align="left"
     alt="GitHub Stats"
     height="200"
     src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoGoulart333&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)]"
+/>
 
-
+</p>
 
 ---
 
