@@ -1,9 +1,9 @@
-<!-- Banner animado menor -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=150&section=header&text=Theo%20Goulart&fontSize=70&fontColor=ffffff&animation=glitchwave"/>
+<!-- Banner maior com texto ajustado -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=250&section=header&text=Theo%20Goulart&fontSize=65&fontColor=ffffff&animation=glitchwave"/>
 
-<!-- Typing animation centralizado com margem -->
+<!-- Typing animation com margem -->
 <p align="center" style="margin-top: 20px;">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=500&color=ffffff&center=true&vCenter=true&width=1200&lines=Python+Developer;Software+Engineer;Future+Software+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=4000&pause=500&color=ffffff&center=true&vCenter=true&width=1200&lines=Python+Developer;Software+Engineer;Future+Software+Engineer"/>
 </p>
 
 ---
@@ -38,7 +38,7 @@
 
 ---
 
-# 🎮 GitHub Stats e Commit Streak
+# 📊 GitHub Stats & Commit Streak
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheoGoulart333&show_icons=true&theme=tokyonight" style="margin-right:10px;"/>
@@ -51,11 +51,13 @@
 
 ---
 
-# 🏆 Trophies
+# 🏆 Trophies — Alternativa Visual
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TheoGoulart333&theme=tokyonight&no-frame=true&row=1&column=7" width="400"/>
+<img src="https://media.giphy.com/media/xUOwG7lnT0ku8gJ3s8/giphy.gif" width="420" alt="Trophies Animation"/>
 </p>
+
+*(Essa imagem substitui os troféus dinâmicos para evitar bugs no GitHub)*
 
 ---
 
@@ -67,11 +69,13 @@
 
 ---
 
-# 🌆 GitHub Skyline
+# 🌆 GitHub Skyline — Alternativa
 
 <p align="center">
-<img src="https://skyline.github.com/proxy/github/TheoGoulart333/960x400.png" width="600"/>
+<img src="https://media.giphy.com/media/1BXa2alBjrCXC/giphy.gif" width="600" alt="Skyline Animation"/>
 </p>
+
+*(Imagem animada substitui o skyline real para garantir funcionamento)*
 
 ---
 
