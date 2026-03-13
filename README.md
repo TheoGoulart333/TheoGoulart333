@@ -46,7 +46,7 @@
 
 ---
 
-# 📊 GitHub Stats & Commit Streak
+# 📊 Estatísticas
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheoGoulart333&show_icons=true&theme=tokyonight" style="margin-right:10px;"/>
