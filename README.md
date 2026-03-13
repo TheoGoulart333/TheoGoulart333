@@ -72,3 +72,5 @@ Olá! Me chamo Theo Goulart Cardoso, tenho 19 anos e sou natural de Minas Gerais
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suportetheovasc@gmail.com)
 
 </p>
+
+<img src="https://www.canva.com/design/DAG338PX0Y8/pP5u_ydoxCODV_0-Wt5rGQ/edit)" width="100%">
