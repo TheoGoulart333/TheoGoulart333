@@ -64,7 +64,7 @@
       alt="Tecnologias" 
       height="240" 
       style="padding-left: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoGoulart333&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://helio-github-stats.vercel.app/api/top-langs?username=TheoGoulart333&layout=normal&stats_format=percentages&theme=default&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas" alt="Linguagens mais usadas" width="466" height="auto" loading="lazy"
   />
 </p>
 
