@@ -53,13 +53,20 @@ Meu interesse principal é usar IA e dados para construir sistemas úteis.
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" height="42" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Antigravity-111827?style=for-the-badge&logoColor=white" alt="Antigravity" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Higgsfield-111827?style=for-the-badge&logoColor=white" alt="Higgsfield" /></td>
+    <td align="center"></td>
+    <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
     <td align="center"></td>
   </tr>
 </table>
+
+## Ferramentas de IA
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Antigravity-111827?style=for-the-badge&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Higgsfield-111827?style=for-the-badge&logoColor=white" alt="Higgsfield" />
+</p>
 
 ## Estatísticas do GitHub
 
