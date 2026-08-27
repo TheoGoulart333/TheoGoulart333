@@ -35,30 +35,26 @@ Meu interesse principal é usar IA e dados para construir sistemas úteis.
 ## Stack da NEXO
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-111827?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lucide-111827?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" alt="Next.js" height="42" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" height="42" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" height="42" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" height="42" />
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" height="42" />
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="42" />
+  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" height="42" />
+  <img src="https://cdn.simpleicons.org/vercel/ffffff" alt="Vercel" height="42" />
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" alt="Netlify" height="42" />
 </p>
 
 ## Ferramentas de workflow
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Antigravity-111827?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Higgsfield-111827?style=for-the-badge&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/cursor/ffffff" alt="Cursor" height="42" />
+  <img src="https://cdn.simpleicons.org/openai/10A37F" alt="Codex / ChatGPT" height="42" />
+  <img src="https://cdn.simpleicons.org/anthropic/CC785C" alt="Claude" height="42" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" height="42" />
+  <img src="https://img.shields.io/badge/Antigravity-111827?style=for-the-badge&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Higgsfield-111827?style=for-the-badge&logoColor=white" alt="Higgsfield" />
 </p>
 
 ## Estatísticas do GitHub
