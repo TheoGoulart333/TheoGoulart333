@@ -5,43 +5,34 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=980&lines=AI+Builder;Machine+Learning+Builder;Automation+%26+Data+Driven+Projects;Software+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=980&lines=Construtor+de+IA;Projetos+com+Machine+Learning;Automacao+%26+Dados;Estudante+de+Engenharia+de+Software" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheoGoulart333&theme=github_dark" alt="Profile summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheoGoulart333&theme=github_dark" alt="Resumo do perfil" />
 </p>
 
-## About Me
+## Sobre mim
 
-I build practical software with a strong focus on AI, automation, and data-driven systems.
+Construo software prático com foco em IA, automação e sistemas orientados por dados.
 
-- AI builder with hands-on work in machine learning and applied automation
-- Software Engineering student at PUC Minas
-- Focused on building useful systems, not just experiments
-- I care about readable code, documentation, testing, and maintainability
-- I enjoy turning data into decisions and ideas into working products
+- Construtor de IA com experiência prática em machine learning e automação aplicada
+- Estudante de Engenharia de Software na PUC Minas
+- Foco em criar sistemas úteis, não apenas experimentos
+- Valorizo código legível, documentação, testes e manutenção
+- Gosto de transformar dados em decisões e ideias em produtos funcionando
 
-## AI / Data Focus
+## Foco em IA e dados
 
-My strongest interest is using AI and data to build useful systems.
+Meu interesse principal é usar IA e dados para construir sistemas úteis.
 
-- Machine learning for prediction and decision support
-- Feature engineering and data preprocessing
-- Technical analysis and algorithmic logic
-- Automation pipelines with practical impact
-- Model evaluation, validation, and reliability
+- Machine learning para previsão e apoio à decisão
+- Engenharia de atributos e pré-processamento de dados
+- Análise técnica e lógica algorítmica
+- Pipelines de automação com impacto prático
+- Avaliação, validação e confiabilidade de modelos
 
-## Featured Projects
-
-| Project | What it shows |
-|---|---|
-| [AI-Trading-Bot](https://github.com/TheoGoulart333/AI-Trading-Bot) | Applied machine learning, technical analysis, and testing discipline |
-| [receitas-de-minas](https://github.com/TheoGoulart333/receitas-de-minas) | Web development and product thinking |
-| [pokedex](https://github.com/TheoGoulart333/pokedex) | Python fundamentals and structured data handling |
-| [sistema-banc-rio-python](https://github.com/TheoGoulart333/sistema-banc-rio-python) | OOP, validation, and business logic |
-
-## Skills / Stack
+## Ferramentas e stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -54,49 +45,49 @@ My strongest interest is using AI and data to build useful systems.
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Lovable-FF4D8D?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-0F766E?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automacao-111827?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Analise%20de%20Dados-0F766E?style=for-the-badge&logo=apacheairflow&logoColor=white" />
 </p>
 
-## GitHub Stats
+## Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheoGoulart333&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoGoulart333&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheoGoulart333&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoGoulart333&layout=compact&hide_border=true&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TheoGoulart333&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=TheoGoulart333&theme=tokyonight&hide_border=true" alt="Sequência de atividade" />
 </p>
 
-## What I Value
+## O que eu valorizo
 
-- Clean and readable code
-- Strong project structure
-- Honest evaluation of results
-- Good documentation
-- Building things that are actually useful
+- Código limpo e legível
+- Estrutura forte de projeto
+- Avaliação honesta de resultados
+- Boa documentação
+- Construir coisas realmente úteis
 
-## Open To
+## Aberto a
 
-- AI and machine learning projects
-- Automation and data-oriented collaboration
-- Open source contributions
-- Product-focused software work
-- Research-to-implementation projects
+- Projetos de IA e machine learning
+- Colaboração em automação e dados
+- Contribuições open source
+- Trabalho com foco em produto
+- Projetos que saem da pesquisa para a implementação
 
-## Contact
+## Contato
 
 - LinkedIn: https://www.linkedin.com/in/theogoulart3/
-- Email: suportetheovasc@gmail.com
+- E-mail: suportetheovasc@gmail.com
 - GitHub: https://github.com/TheoGoulart333
 
-## Contribution Snake
+## Snake de contribuições
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheoGoulart333/TheoGoulart333/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/TheoGoulart333/TheoGoulart333/output/github-contribution-grid-snake.svg" alt="Snake de contribuições" />
 </p>
 
 <p align="center">
-  <sub>Built to be professional, visually distinctive, and focused on practical AI.</sub>
+  <sub>Feito para ser profissional, visualmente diferente e focado em IA prática.</sub>
 </p>
