@@ -32,50 +32,39 @@ Meu interesse principal é usar IA e dados para construir sistemas úteis.
 - Pipelines de automação com impacto prático
 - Avaliação, validação e confiabilidade de modelos
 
+
 ## Stack
 
-<table align="center">
-  <tr>
-    <td><img src="https://cdn.simpleicons.org/nextdotjs/ffffff" alt="Next.js" height="42" /></td>
-    <td><img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" height="42" /></td>
-    <td><img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" height="42" /></td>
-    <td><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" height="42" /></td>
-    <td><img src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" height="42" /></td>
-    <td><img src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="42" /></td>
-    <td><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" height="42" /></td>
-    <td><img src="https://cdn.simpleicons.org/vercel/ffffff" alt="Vercel" height="42" /></td>
-    <td><img src="https://cdn.simpleicons.org/netlify/00C7B7" alt="Netlify" height="42" /></td>
-    <td><img src="https://cdn.simpleicons.org/cursor/ffffff" alt="Cursor" height="42" /></td>
-    <td><img src="https://cdn.simpleicons.org/openai/10A37F" alt="Codex / ChatGPT" height="42" /></td>
-    <td><img src="https://cdn.simpleicons.org/anthropic/CC785C" alt="Claude" height="42" /></td>
-    <td><img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" height="42" /></td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" height="30" alt="Next.js" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="React" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="Tailwind CSS" />
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="30" alt="SQLite" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="Git" />
+  <img src="https://cdn.simpleicons.org/github/ffffff" height="30" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/vercel/ffffff" height="30" alt="Vercel" />
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="30" alt="Netlify" />
+  <img src="https://cdn.simpleicons.org/cursor/ffffff" height="30" alt="Cursor" />
+  <img src="https://cdn.simpleicons.org/openai/ffffff" height="30" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" height="30" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Lovable-FF4D8D?style=for-the-badge&logo=heart&logoColor=white" height="30" alt="Lovable" />
+  <img src="https://cdn.simpleicons.org/anthropic/ffffff" height="30" alt="Claude" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="30" alt="Figma" />
+</p>
 
 ## Ferramentas de IA
 
-<table align="center">
-  <tr>
-    <td><img src="https://img.shields.io/badge/Antigravity-111827?style=for-the-badge&logoColor=white" alt="Antigravity" /></td>
-    <td><img src="https://img.shields.io/badge/Higgsfield-111827?style=for-the-badge&logoColor=white" alt="Higgsfield" /></td>
-  </tr>
-</table>
-
-## Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheoGoulart333&theme=github_dark" alt="Resumo do perfil" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheoGoulart333&theme=github_dark" alt="Estatísticas" />
+<p align="left">
+  <img src="https://cdn.simpleicons.org/openai/ffffff" height="30" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" height="30" alt="Gemini" />
+  <img src="https://cdn.simpleicons.org/cursor/ffffff" height="30" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Lovable-FF4D8D?style=for-the-badge&logo=heart&logoColor=white" height="30" alt="Lovable" />
+  <img src="https://cdn.simpleicons.org/anthropic/ffffff" height="30" alt="Claude" />
+  <img src="https://img.shields.io/badge/Antigravity-111827?style=for-the-badge&logo=google&logoColor=white" height="30" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Higgsfield-111827?style=for-the-badge&logo=google&logoColor=white" height="30" alt="Higgsfield" />
+  
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheoGoulart333&theme=github_dark" alt="Linguagem mais usada" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TheoGoulart333&theme=tokyonight&hide_border=true" alt="Sequência de atividade" />
-</p>
-
 ## O que eu valorizo
 
 - Código limpo e legível
