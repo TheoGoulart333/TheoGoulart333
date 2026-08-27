@@ -35,36 +35,39 @@ Meu interesse principal é usar IA e dados para construir sistemas úteis.
 
 ## Stack
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" height="30" alt="Next.js" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="React" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" alt="TypeScript" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="Tailwind CSS" />
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="30" alt="SQLite" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="Git" />
-  <img src="https://cdn.simpleicons.org/github/ffffff" height="30" alt="GitHub" />
-  <img src="https://cdn.simpleicons.org/vercel/ffffff" height="30" alt="Vercel" />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="30" alt="Netlify" />
-  <img src="https://cdn.simpleicons.org/cursor/ffffff" height="30" alt="Cursor" />
-  <img src="https://cdn.simpleicons.org/openai/ffffff" height="30" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" height="30" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Lovable-FF4D8D?style=for-the-badge&logo=heart&logoColor=white" height="30" alt="Lovable" />
-  <img src="https://cdn.simpleicons.org/anthropic/ffffff" height="30" alt="Claude" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="30" alt="Figma" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/nextdotjs/ffffff" height="30" alt="Next.js" /></td>
+    <td><img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="React" /></td>
+    <td><img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" alt="TypeScript" /></td>
+    <td><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="Tailwind CSS" /></td>
+    <td><img src="https://cdn.simpleicons.org/sqlite/003B57" height="30" alt="SQLite" /></td>
+    <td><img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="Git" /></td>
+    <td><img src="https://cdn.simpleicons.org/github/ffffff" height="30" alt="GitHub" /></td>
+    <td><img src="https://cdn.simpleicons.org/vercel/ffffff" height="30" alt="Vercel" /></td>
+    <td><img src="https://cdn.simpleicons.org/netlify/00C7B7" height="30" alt="Netlify" /></td>
+    <td><img src="https://cdn.simpleicons.org/cursor/ffffff" height="30" alt="Cursor" /></td>
+    <td><img src="https://cdn.simpleicons.org/openai/ffffff" height="30" alt="ChatGPT" /></td>
+    <td><img src="https://cdn.simpleicons.org/google_gemini/4285F4" height="30" alt="Gemini" /></td>
+    <td><img src="https://img.shields.io/badge/Lovable-FF4D8D?style=for-the-badge&logo=heart&logoColor=white" height="30" alt="Lovable" /></td>
+    <td><img src="https://cdn.simpleicons.org/anthropic/ffffff" height="30" alt="Claude" /></td>
+    <td><img src="https://cdn.simpleicons.org/figma/F24E1E" height="30" alt="Figma" /></td>
+  </tr>
+</table>
 
 ## Ferramentas de IA
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/openai/ffffff" height="30" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" height="30" alt="Gemini" />
-  <img src="https://cdn.simpleicons.org/cursor/ffffff" height="30" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Lovable-FF4D8D?style=for-the-badge&logo=heart&logoColor=white" height="30" alt="Lovable" />
-  <img src="https://cdn.simpleicons.org/anthropic/ffffff" height="30" alt="Claude" />
-  <img src="https://img.shields.io/badge/Antigravity-111827?style=for-the-badge&logo=google&logoColor=white" height="30" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/Higgsfield-111827?style=for-the-badge&logo=google&logoColor=white" height="30" alt="Higgsfield" />
-  
-</p>
+<table>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/openai/ffffff" height="30" alt="ChatGPT" /></td>
+    <td><img src="https://cdn.simpleicons.org/google_gemini/4285F4" height="30" alt="Gemini" /></td>
+    <td><img src="https://cdn.simpleicons.org/cursor/ffffff" height="30" alt="Cursor" /></td>
+    <td><img src="https://img.shields.io/badge/Lovable-FF4D8D?style=for-the-badge&logo=heart&logoColor=white" height="30" alt="Lovable" /></td>
+    <td><img src="https://cdn.simpleicons.org/anthropic/ffffff" height="30" alt="Claude" /></td>
+    <td><img src="https://img.shields.io/badge/Antigravity-111827?style=for-the-badge&logo=google&logoColor=white" height="30" alt="Antigravity" /></td>
+    <td><img src="https://img.shields.io/badge/Higgsfield-111827?style=for-the-badge&logo=google&logoColor=white" height="30" alt="Higgsfield" /></td>
+  </tr>
+</table>
 ## O que eu valorizo
 
 - Código limpo e legível
