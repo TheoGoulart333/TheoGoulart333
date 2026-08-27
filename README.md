@@ -39,14 +39,6 @@ Meu interesse principal é usar IA e dados para construir sistemas úteis.
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Higgsfield-111827?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Antigravity-111827?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lovable-FF4D8D?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automacao-111827?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Analise%20de%20Dados-0F766E?style=for-the-badge&logo=apacheairflow&logoColor=white" />
 </p>
 
 ## Estatísticas do GitHub
