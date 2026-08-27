@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=980&lines=Python+Developer;AI+%26+Machine+Learning+Builder;Automation+%26+Data+Driven+Projects;Software+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=980&lines=AI+Builder;Machine+Learning+Builder;Automation+%26+Data+Driven+Projects;Software+Engineering+Student" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 I build practical software with a strong focus on AI, automation, and data-driven systems.
 
-- Python developer with hands-on work in machine learning and applied automation
+- AI builder with hands-on work in machine learning and applied automation
 - Software Engineering student at PUC Minas
 - Focused on building useful systems, not just experiments
 - I care about readable code, documentation, testing, and maintainability
@@ -48,6 +48,12 @@ My strongest interest is using AI and data to build useful systems.
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Higgsfield-111827?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-111827?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lovable-FF4D8D?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Analysis-0F766E?style=for-the-badge&logo=apacheairflow&logoColor=white" />
 </p>
