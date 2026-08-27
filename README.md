@@ -34,32 +34,21 @@ Meu interesse principal é usar IA e dados para construir sistemas úteis.
 
 ## Stack
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/nextdotjs/ffffff" alt="Next.js" height="42" /></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" height="42" /></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" height="42" /></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" height="42" /></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" height="42" /></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="42" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" height="42" /></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/vercel/ffffff" alt="Vercel" height="42" /></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/netlify/00C7B7" alt="Netlify" height="42" /></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/cursor/ffffff" alt="Cursor" height="42" /></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/openai/10A37F" alt="Codex / ChatGPT" height="42" /></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/anthropic/CC785C" alt="Claude" height="42" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" height="42" /></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" alt="Next.js" height="42" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" height="42" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" height="42" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" height="42" />
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" height="42" />
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="42" />
+  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" height="42" />
+  <img src="https://cdn.simpleicons.org/vercel/ffffff" alt="Vercel" height="42" />
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" alt="Netlify" height="42" />
+  <img src="https://cdn.simpleicons.org/cursor/ffffff" alt="Cursor" height="42" />
+  <img src="https://cdn.simpleicons.org/openai/10A37F" alt="Codex / ChatGPT" height="42" />
+  <img src="https://cdn.simpleicons.org/anthropic/CC785C" alt="Claude" height="42" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" height="42" />
+</p>
 
 ## Ferramentas de IA
 
