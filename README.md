@@ -71,8 +71,12 @@ Meu interesse principal é usar IA e dados para construir sistemas úteis.
 ## Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheoGoulart333&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoGoulart333&layout=compact&hide_border=true&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheoGoulart333&theme=github_dark" alt="Resumo do perfil" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TheoGoulart333&theme=github_dark" alt="Estatísticas" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TheoGoulart333&theme=github_dark" alt="Linguagem mais usada" />
 </p>
 
 <p align="center">
