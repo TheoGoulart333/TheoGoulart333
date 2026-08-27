@@ -32,10 +32,10 @@ Uma plataforma criada para transformar conhecimento, contexto e inteligência ar
   <img src="./assets/stack-icons.svg" width="906" alt="Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, Lucide, Neon, SQLite, Git, GitHub, Vercel, Netlify e Figma" />
 </p>
 
-## Ferramentas de IA
+## Ferramentas de IA e criação
 
 <p align="center">
-  <img src="./assets/ai-tools.svg" width="556" alt="ChatGPT, Codex, Gemini, Cursor, Lovable, Claude, Antigravity e Higgsfield" />
+  <img src="./assets/ai-tools.svg" width="766" alt="ChatGPT, Gemini, Cursor, Lovable, Claude, Antigravity, Higgsfield, Kokonut UI, Manus, Anime.js e Motion" />
 </p>
 
 ## Como eu trabalho
