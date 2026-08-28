@@ -35,7 +35,7 @@ Uma plataforma criada para transformar conhecimento, contexto e inteligência ar
 ## Ferramentas de IA e criação
 
 <p align="center">
-  <img src="./assets/ai-tools.svg" width="766" alt="ChatGPT, Gemini, Cursor, Lovable, Claude, Antigravity, Higgsfield, Kokonut UI, Manus, Anime.js e Motion" />
+  <img src="./assets/ai-tools.svg" width="836" alt="ChatGPT, Codex, Gemini, Cursor, Lovable, Claude, Antigravity, Higgsfield, Kokonut UI, Manus, Anime.js e Motion" />
 </p>
 
 ## Como eu trabalho
