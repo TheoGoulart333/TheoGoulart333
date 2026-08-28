@@ -52,14 +52,22 @@ O roadmap Enterprise está estruturado para explorar:
 
 ### AI Trading Bot
 
-Projeto educacional de engenharia de software e machine learning aplicado a séries temporais financeiras. O pipeline cobre ingestão de candles via CCXT, indicadores técnicos, feature engineering, modelos intercambiáveis e um motor de backtesting com custos e gestão de risco.
+Laboratório reproduzível de machine learning aplicado a séries temporais financeiras. O projeto investiga como construir e avaliar um baseline de classificação direcional sem tratar desempenho histórico como evidência automática de capacidade preditiva.
 
-**Decisões técnicas em destaque:** `TimeSeriesSplit` para evitar vazamento temporal · Random Forest como baseline interpretável · LSTM para experimentos sequenciais · simulação de taxas e slippage · Sharpe Ratio, drawdown e profit factor para avaliação.
+| Camada | Implementação |
+|:--|:--|
+| **Dados** | Candles OHLCV via CCXT, normalização, rate limiting e novas tentativas com espera exponencial. |
+| **Inteligência** | Indicadores técnicos, feature engineering temporal, Random Forest interpretável e LSTM opcional. |
+| **Validação** | Split cronológico, `TimeSeriesSplit`, target sem futuro conhecido e alinhamento por timestamp. |
+| **Simulação** | Taxas de entrada e saída, slippage adverso, stop-loss, take-profit e encerramento por sinal. |
+| **Qualidade** | GitHub Actions, lint, formatação, 15 testes automatizados e cobertura mínima exigida no CI. |
 
-> Projeto de estudo e portfólio. Não executa operações com dinheiro real e não representa recomendação financeira.
+O resultado mais importante não é prometer lucro: é tornar hipóteses, custos, limitações e métricas auditáveis. O repositório inclui execução sintética reproduzível e documentação das próximas etapas para uma avaliação walk-forward mais rigorosa.
+
+> Projeto educacional. Não executa ordens, não utiliza dinheiro real e não representa recomendação financeira.
 
 <p>
-  <a href="https://github.com/TheoGoulart333/AI-Trading-Bot"><img src="https://img.shields.io/badge/VER%20PIPELINE%20DE%20ML-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Ver AI Trading Bot" /></a>
+  <a href="https://github.com/TheoGoulart333/AI-Trading-Bot"><img src="https://img.shields.io/badge/EXPLORAR%20ARQUITETURA%20E%20VALIDA%C3%87%C3%83O-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explorar arquitetura e validação do AI Trading Bot" /></a>
 </p>
 
 ## Stack
