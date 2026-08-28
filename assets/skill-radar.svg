@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="520" viewBox="0 0 920 520" role="img" aria-labelledby="title desc">
+  <title id="title">Skill radar de Theo Goulart</title>
+  <desc id="desc">Radar visual com foco em IA aplicada, produto, frontend, backend, automacao, dados e validacao.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.52" stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="radarFill" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22c55e" stop-opacity="0.72"/>
+      <stop offset="0.55" stop-color="#38bdf8" stop-opacity="0.52"/>
+      <stop offset="1" stop-color="#2563eb" stop-opacity="0.48"/>
+    </linearGradient>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .title{fill:#f8fafc;font:700 28px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}
+      .eyebrow{fill:#38bdf8;font:600 13px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;letter-spacing:2px}
+      .label{fill:#e5e7eb;font:700 15px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}
+      .value{fill:#94a3b8;font:500 12px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}
+      .grid{fill:none;stroke:#334155;stroke-width:1}
+      .axis{stroke:#475569;stroke-width:1}
+      .chip{fill:#0b1220;stroke:#26364f;stroke-width:1}
+      .chipText{fill:#cbd5e1;font:700 13px ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}
+    </style>
+  </defs>
+
+  <rect width="920" height="520" rx="24" fill="url(#bg)"/>
+  <rect x="18" y="18" width="884" height="484" rx="18" fill="none" stroke="#26364f"/>
+
+  <text x="52" y="72" class="eyebrow">~/ SKILL RADAR</text>
+  <text x="52" y="110" class="title">IA aplicada, produto e engenharia</text>
+  <text x="52" y="140" class="value">Um mapa visual das frentes que guiam meus projetos e estudos.</text>
+
+  <g transform="translate(460 282)">
+    <polygon points="0,-170 147,-85 147,85 0,170 -147,85 -147,-85" class="grid"/>
+    <polygon points="0,-136 118,-68 118,68 0,136 -118,68 -118,-68" class="grid"/>
+    <polygon points="0,-102 88,-51 88,51 0,102 -88,51 -88,-51" class="grid"/>
+    <polygon points="0,-68 59,-34 59,34 0,68 -59,34 -59,-34" class="grid"/>
+    <polygon points="0,-34 29,-17 29,17 0,34 -29,17 -29,-17" class="grid"/>
+
+    <line x1="0" y1="0" x2="0" y2="-170" class="axis"/>
+    <line x1="0" y1="0" x2="147" y2="-85" class="axis"/>
+    <line x1="0" y1="0" x2="147" y2="85" class="axis"/>
+    <line x1="0" y1="0" x2="0" y2="170" class="axis"/>
+    <line x1="0" y1="0" x2="-147" y2="85" class="axis"/>
+    <line x1="0" y1="0" x2="-147" y2="-85" class="axis"/>
+
+    <polygon points="0,-153 121,-70 112,65 0,128 -130,75 -112,-65" fill="url(#radarFill)" stroke="#22c55e" stroke-width="3" filter="url(#softGlow)"/>
+    <circle cx="0" cy="-153" r="5" fill="#bbf7d0"/>
+    <circle cx="121" cy="-70" r="5" fill="#bbf7d0"/>
+    <circle cx="112" cy="65" r="5" fill="#bbf7d0"/>
+    <circle cx="0" cy="128" r="5" fill="#bbf7d0"/>
+    <circle cx="-130" cy="75" r="5" fill="#bbf7d0"/>
+    <circle cx="-112" cy="-65" r="5" fill="#bbf7d0"/>
+
+    <text x="-52" y="-198" class="label">IA aplicada</text>
+    <text x="164" y="-88" class="label">Produto</text>
+    <text x="166" y="96" class="label">Frontend</text>
+    <text x="-34" y="206" class="label">Backend</text>
+    <text x="-244" y="96" class="label">Automacao</text>
+    <text x="-210" y="-88" class="label">Dados</text>
+  </g>
+
+  <g>
+    <rect x="52" y="392" width="140" height="38" rx="10" class="chip"/>
+    <text x="75" y="416" class="chipText">Next.js</text>
+    <rect x="204" y="392" width="132" height="38" rx="10" class="chip"/>
+    <text x="227" y="416" class="chipText">Python</text>
+    <rect x="348" y="392" width="178" height="38" rx="10" class="chip"/>
+    <text x="371" y="416" class="chipText">Machine Learning</text>
+    <rect x="538" y="392" width="152" height="38" rx="10" class="chip"/>
+    <text x="561" y="416" class="chipText">Arquitetura</text>
+    <rect x="702" y="392" width="166" height="38" rx="10" class="chip"/>
+    <text x="725" y="416" class="chipText">Validacao</text>
+  </g>
+</svg>

@@ -92,10 +92,24 @@ O resultado mais importante não é prometer lucro: é tornar hipóteses, custos
 
 Uso diferentes modelos e ferramentas de forma complementar, escolhendo cada um pelo papel que desempenha no processo. A IA acelera exploração e execução; contexto, critérios técnicos e revisão humana continuam responsáveis pela qualidade do resultado.
 
+## Skill radar
+
+<p align="center">
+  <img src="./assets/skill-radar.svg" width="920" alt="Radar de habilidades de Theo Goulart" />
+</p>
+
 ## GitHub em movimento
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TheoGoulart333&theme=github_dark" alt="Resumo de atividade no GitHub" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="900" alt="Calendário 3D de contribuições de Theo Goulart" />
+  </picture>
 </p>
 
 <p align="center">
