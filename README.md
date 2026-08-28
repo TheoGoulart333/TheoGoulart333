@@ -1,9 +1,9 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Theo%20Goulart&fontAlign=50&fontAlignY=42&color=0:07111F,45:0F766E,100:2563EB&fontColor=F8FAFC&animation=fadeIn&fontSize=46&desc=IA%20%E2%80%A2%20PRODUTO%20%E2%80%A2%20AUTOMA%C3%87%C3%83O&descAlign=50&descAlignY=64&descSize=14" alt="Theo Goulart - IA, produto e automação" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Theo%20Goulart&fontAlign=50&fontAlignY=42&color=0:07111F,45:0F766E,100:2563EB&fontColor=F8FAFC&animation=fadeIn&fontSize=46&desc=IA%20APLICADA%20%E2%80%A2%20SISTEMAS%20DE%20PRODUTO%20%E2%80%A2%20AUTOMA%C3%87%C3%83O&descAlign=50&descAlignY=64&descSize=14" alt="Theo Goulart - IA aplicada, sistemas de produto e automação" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=820&lines=Construindo+a+NEXO+Platform;Transformando+ideias+em+produtos+com+IA;Arquitetura%2C+automa%C3%A7%C3%A3o+e+execu%C3%A7%C3%A3o" alt="Apresentação animada" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Construindo+a+NEXO+Platform;Projetando+sistemas+de+contexto+para+opera%C3%A7%C3%B5es+com+IA;Do+problema+%C3%A0+arquitetura%2C+implementa%C3%A7%C3%A3o+e+valida%C3%A7%C3%A3o" alt="Apresentação animada" />
 </p>
 
 <p align="center">
@@ -12,19 +12,55 @@
   <img src="https://img.shields.io/badge/Engenharia%20de%20Software-PUC%20Minas-0F766E?style=flat-square" alt="Engenharia de Software na PUC Minas" />
 </p>
 
-<h2 align="center">IA aplicada, visão de produto e execução</h2>
+<h2 align="center">Produtos com IA, arquitetura orientada a contexto e execução técnica</h2>
 
 <p align="center">
-  Construo produtos digitais e sistemas inteligentes combinando arquitetura, automação e uma operação de desenvolvimento assistida por IA. Meu foco é transformar problemas reais em experiências claras, úteis e sustentáveis.
+  Atuo na interseção entre produto, software e inteligência artificial aplicada. Estruturo problemas, transformo regras de negócio em arquiteturas documentadas e uso IA como apoio à pesquisa, implementação, revisão e criação. Meu foco é construir sistemas úteis, rastreáveis e preparados para evoluir.
 </p>
 
-## Em construção
+## Direção de trabalho
 
-### NEXO Platform
+Minha atuação está se especializando em três frentes complementares:
 
-Uma plataforma criada para transformar conhecimento, contexto e inteligência artificial em fluxos de trabalho mais conectados. Atuo da concepção do produto à implementação, unindo estratégia, experiência e engenharia.
+| Frente | O que desenvolvo |
+|:--|:--|
+| **Sistemas de produto** | Descoberta do problema, modelagem de domínio, arquitetura, roadmap, critérios de aceite e evolução por etapas. |
+| **Operações assistidas por IA** | Organização de contexto, combinação de modelos e ferramentas, automações com supervisão humana e documentação das decisões. |
+| **Dados e ML aplicado** | Feature engineering, validação temporal, métricas, backtesting e análise crítica de resultados experimentais. |
+
+## Em foco: NEXO Platform
+
+A **NEXO** é um ecossistema de CRM e inteligência operacional pensado para conectar dados, contexto e ações em um fluxo de trabalho coerente. Meu trabalho envolve definição de produto, arquitetura, experiência, documentação técnica e implementação.
+
+O roadmap Enterprise está estruturado para explorar:
+
+- enriquecimento de dados empresariais e contatos;
+- transcrição e análise de reuniões;
+- recomendações de próxima melhor ação e previsão;
+- integrações com Google Drive e sistemas ERP;
+- contratos de API, gates de entrega, testes e requisitos de LGPD.
+
+> O tier Enterprise está em fase de planejamento técnico. O repositório documenta arquitetura, contratos, etapas de implementação e critérios de validação antes da construção das funcionalidades.
 
 `Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Neon` · `Vercel`
+
+<p>
+  <a href="https://github.com/TheoGoulart333/nexo-enterprise"><img src="https://img.shields.io/badge/EXPLORAR%20NEXO%20ENTERPRISE-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Explorar NEXO Enterprise" /></a>
+</p>
+
+## Projeto técnico selecionado
+
+### AI Trading Bot
+
+Projeto educacional de engenharia de software e machine learning aplicado a séries temporais financeiras. O pipeline cobre ingestão de candles via CCXT, indicadores técnicos, feature engineering, modelos intercambiáveis e um motor de backtesting com custos e gestão de risco.
+
+**Decisões técnicas em destaque:** `TimeSeriesSplit` para evitar vazamento temporal · Random Forest como baseline interpretável · LSTM para experimentos sequenciais · simulação de taxas e slippage · Sharpe Ratio, drawdown e profit factor para avaliação.
+
+> Projeto de estudo e portfólio. Não executa operações com dinheiro real e não representa recomendação financeira.
+
+<p>
+  <a href="https://github.com/TheoGoulart333/AI-Trading-Bot"><img src="https://img.shields.io/badge/VER%20PIPELINE%20DE%20ML-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Ver AI Trading Bot" /></a>
+</p>
 
 ## Stack
 
@@ -40,9 +76,13 @@ Uma plataforma criada para transformar conhecimento, contexto e inteligência ar
 
 ## Como eu trabalho
 
-**Produto antes da tecnologia** · **IA com propósito** · **Contexto bem estruturado** · **Código sustentável** · **Documentação que acompanha a evolução**
+- `01` **Compreender** — contexto, problema, usuário e restrições
+- `02` **Estruturar** — domínio, requisitos, riscos e critérios de sucesso
+- `03` **Projetar** — arquitetura, contratos, etapas e experiência
+- `04` **Construir** — implementação incremental com IA como apoio operacional
+- `05` **Validar** — testes, revisão, métricas e registro das decisões
 
-Uso diferentes modelos e ferramentas de IA de forma complementar: arquitetura e direção de produto, implementação no repositório, revisão técnica, pesquisa e produção visual. A ferramenta muda; o compromisso com clareza e resultado permanece.
+Uso diferentes modelos e ferramentas de forma complementar, escolhendo cada um pelo papel que desempenha no processo. A IA acelera exploração e execução; contexto, critérios técnicos e revisão humana continuam responsáveis pela qualidade do resultado.
 
 ## GitHub em movimento
 
@@ -60,7 +100,7 @@ Uso diferentes modelos e ferramentas de IA de forma complementar: arquitetura e 
 
 ## Vamos construir algo relevante
 
-Estou aberto a conversas sobre produtos com IA, automações, colaboração técnica e projetos que precisam sair da ideia para uma implementação real.
+Tenho interesse em colaborar em produtos com IA aplicada, sistemas internos, automações, experiências orientadas por dados e projetos que precisam transformar uma ideia ainda difusa em uma implementação clara e verificável.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/theogoulart3/"><img src="https://img.shields.io/badge/CONVERSAR%20NO%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conversar no LinkedIn" /></a>
@@ -68,5 +108,5 @@ Estou aberto a conversas sobre produtos com IA, automações, colaboração téc
 </p>
 
 <p align="center">
-  <sub>Construindo com intenção. Evoluindo com consistência.</sub>
+  <sub>Contexto antes do prompt. Critério antes da automação. Evidência antes da conclusão.</sub>
 </p>
