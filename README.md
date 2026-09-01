@@ -18,6 +18,16 @@
   Atuo na interseção entre produto, software e inteligência artificial aplicada. Estruturo problemas, transformo regras de negócio em arquiteturas documentadas e uso IA como apoio à pesquisa, implementação, revisão e criação. Meu foco é construir sistemas úteis, rastreáveis e preparados para evoluir.
 </p>
 
+## Open Source em andamento
+
+Estou construindo presença pública com projetos próprios, GitHub Pages, automações com a API do GitHub e contribuições em organizações reais.
+
+| Frente | Evidência |
+|:--|:--|
+| **Developer Program** | Membro do GitHub Developer Program, com integração própria usando GitHub API e dashboard público. |
+| **Projeto publicado** | [GitHub Repo Health Dashboard](https://github.com/TheoGoulart333/rpa-n8n-python) analisa saúde de repositórios e publica relatórios no GitHub Pages. |
+| **Contribuições externas** | PRs abertos em [pythonnative](https://github.com/pythonnative/pythonnative/pull/50), [open-hallucination-index](https://github.com/shiftbloom-studio/open-hallucination-index/pull/66) e [wcc-qa](https://github.com/Women-Coding-Community/wcc-qa/pull/45). |
+
 ## Direção de trabalho
 
 Minha atuação está se especializando em três frentes complementares:
