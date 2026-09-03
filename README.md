@@ -108,6 +108,12 @@ Uso diferentes modelos e ferramentas de forma complementar, escolhendo cada um p
   <img src="./assets/skill-radar.svg" width="920" alt="Radar de habilidades de Theo Goulart" />
 </p>
 
+## GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TheoGoulart333&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="900" alt="Achievements de Theo Goulart no GitHub" />
+</p>
+
 ## GitHub em movimento
 
 <p align="center">
