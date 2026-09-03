@@ -111,7 +111,7 @@ Uso diferentes modelos e ferramentas de forma complementar, escolhendo cada um p
 ## GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheoGoulart333&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="900" alt="Achievements de Theo Goulart no GitHub" />
+  <img src="./assets/achievements.svg" width="900" alt="Pull Shark e Pair Extraordinaire de Theo Goulart" />
 </p>
 
 ## GitHub em movimento
